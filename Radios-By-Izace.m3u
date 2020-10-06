@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Radios By Izace 66 9 9997 4650
-https://centova.svdns.com.br:20109/stream?type=.mp3#EXTINF:-1,TV GLOBO Cortesia
+#EXTINF:-1,Radios By Izace (66) 9 9997-4650
+http://0.0.0.0
+#EXTINF:-1,TV GLOBO Cortesia
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1,Antena 1 FM SP
 http://antena1.newradio.it/stream
@@ -154,7 +155,7 @@ rtmp://srv3.zoeweb.tv/Jangadeiro7/stream
 http://centova10.ciclanohost.com.br:9019/stream
 #EXTINF:0,93 FM FORTALEZA
 rtmp://verdesmares.zoeweb.tv/fm93/stream
-#EXTINF:0,R�dio Lideranca 94 - 3
+#EXTINF:0,Rádio Lideranca 94 - 3
 http://sc1.cadena.com.br:9510/;
 #EXTINF:0,Piata FM SALVADOR
 http://192.163.193.115:9992/stream
@@ -174,7 +175,7 @@ http://centova10.ciclanohost.com.br:6258/stream
 http://hts02.kshost.com.br:8856/live
 #EXTINF:0,Liberal FM Belem
 http://177.105.192.70:9750/liberalfm.mp3
-#EXTINF:0,R�dio 99 FM Belem
+#EXTINF:0,Rádio 99 FM Belem
 http://hts02.kshost.com.br:8862/live
 #EXTINF:0,Capital FM MT
 http://stm6.srvstm.com:17256/;
@@ -290,3 +291,93 @@ http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
 http://mixmp3.crossradio.com.br:1102/live
 #EXTINF:-1,GOSPEL FM 89
 http://209.126.127.123:8885/live?1522866827534
+#EXTINF:0,Rádio 99.5 FM
+https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
+#EXTINF:0,Rádio 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:0,Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+#EXTINF:0,Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+#EXTINF:0,Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0,Rádio Bandeirantes AM Goiânia
+http://suaradio2.dyndns.ws:13633/stream
+#EXTINF:0,Rádio BH FM
+http://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:0,Rádio Capão FM
+http://cast4.audiostream.com.br:8656/mp3
+#EXTINF:0,Rádio CBN Brasília
+https://medias.sgr.globo.com/hls/aCBNBSB/aCBNBSB.m3u8
+#EXTINF:0,Rádio CBN MG
+http://medias.sgr.globo.com/hls/aCBNBH/aCBNBH.m3u8
+#EXTINF:0,Rádio CBN SP
+https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+#EXTINF:0,Rádio CBN RJ
+http://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
+#EXTINF:0,Rádio Cidade Leopoldina FM
+http://streaming21.hstbr.net:8220/live
+#EXTINF:0,Rádio Cidreira FM
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:0,Rádio Clube Bagé FM
+http://stm37.srvstm.com:6798/stream?type=.flv
+#EXTINF:0,Rádio Coca-Cola FM
+https://str3.openstream.co/1084
+#EXTINF:0,Rádio Continental FM
+http://cast4.audiostream.com.br:8650/mp3
+#EXTINF:0,Rádio Difusora FM
+http://06.atendemidia.com.br:8430/;
+#EXTINF:0,Rádio Disney FM
+https://mdstrm.com/audio/5ddfc57f4bee0054b9b3f511/icecast.audio
+#EXTINF:0,Rádio Eldorado FM
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:0,Rádio Farroupilha
+https://1592747t.ha.azioncdn.net/primary/far_poa.sdp/playlist.m3u8
+#EXTINF:0,Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:0,Rádio FM Express
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:0,Rádio FM O Dia
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
+#EXTINF:0,Rádio Gazeta AM
+https://shout25.crossradio.com.br:18006/1?type=.flv
+#EXTINF:0,Rádio Gaúcha
+https://1852747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0,Rádio Globo RJ FM
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:0,Rádio Grenal FM
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:0,Rádio Guaíba
+http://cast4.audiostream.com.br:8007/site
+#EXTINF:0,Rádio Imbé FM
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:0,Rádio Interativa FM
+http://suaradio1.dyndns.ws:13551/stream
+#EXTINF:0,Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:0,Rádio Mania FM
+http://shout35.crossradio.com.br:8086/1/;
+#EXTINF:0,Rádio Mega FM
+http://pontofixo-megasistema.webnow.com.br/mega.aac
+#EXTINF:0,Rádio Mix FM
+https://shout12.crossradio.com.br:18002/1
+#EXTINF:0,Rádio Mundial AM
+http://cloud1.cdnseguro.com:20808/stream
+#EXTINF:0,Rádio Nova Brasil FM
+https://20323.live.streamtheworld.com/NOVABRASIL_SP_SC
+#EXTINF:0,Rádio Princesa AM
+http://cast4.audiostream.com.br:8016/mp3
+#EXTINF:0,Rádio Sucesso FM Jaraguá
+http://cast61.sitehosting.com.br:8487/live?1573825310257
+#EXTINF:0,Rádio Sucesso FM São Luís de Montes Belos
+http://cast61.sitehosting.com.br:8168/live?1589464905506
+#EXTINF:0,Rádio Top FM
+http://cloud1.cdnseguro.com:8320/;
+#EXTINF:0,Rádio Torres FM
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:0,Rádio Tramandaí FM
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:0,Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9100/stream
+#EXTINF:0,Rádio Xangri-lá FM
+http://cast4.audiostream.com.br:8659/mp3
