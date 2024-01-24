@@ -1,4 +1,212 @@
+
 #EXTM3U
+
+
+################################################################## @Mato Grosso
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="@Mato Grosso",Band MT HD 
+http://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="@Mato Grosso",SBT Cuiaba HD
+http://www.youtube.com/embed/live_stream?channel=UCIP989otvCR1azdLDgohzWw&autoplay=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Mato Grosso",Centro America FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2455
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Mato Grosso",Centro America HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2454
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="@Mato Grosso",Vila Real Cba FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/244154
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="@Mato Grosso",Vila Real Cba HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/244155
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N1tLTZ.png" group-title="@Mato Grosso",TV Amplitude Juara
+http://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N1tLTZ.png" group-title="@Mato Grosso",TV Amplitude JuiÂ­na
+http://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="@Mato Grosso",TV Conquista LRV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Po8jJt4.png" group-title="@Mato Grosso",Brasil Oeste Cuiaba
+http://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="@Mato Grosso",Bem TV SBT Tangara
+http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="@Mato Grosso",Cidade Verde Cuiaba
+http://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="@Mato Grosso",TV Mais Cultura Cuiaba
+http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="@Mato Grosso", TV Pantanal Rede TV MT
+http://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="@Mato Grosso",TV Varzea Grande
+http://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q35K1Nj.png" group-title="@Mato Grosso", TV Agua Boa MT
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+
+
+################################################################## @Globo
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo SP FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/289881
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo SP UHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/289882
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo SP HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/289883
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo SP HD2
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/289884
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo SP SD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/289885
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo RJ FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2376
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo RJ UHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/21319
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo RJ HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2374
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo RBS POA FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2313
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo RBS POA HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2312
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo Centro America FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2455
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="@Globo",Globo Centro America HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/2454
+
+
+################################################################## @Esportes Extras
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="@Esportes Extras",ESPN FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/210
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="@Esportes Extras",ESPN UHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/21315
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HDÂ²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="@Esportes Extras",ESPN HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/209
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN2 HDÂ²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="@Esportes Extras",ESPN2 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/214
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 HDÂ²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="@Esportes Extras",ESPN3 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/219
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN4 HDÂ²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="@Esportes Extras",ESPN4 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/224
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="@Esportes Extras",SporTV FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/118881
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="@Esportes Extras",SporTV UHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/21275
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="@Esportes Extras",SporTV HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/547
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="@Esportes Extras",SporTV 2 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/552
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere Clubes FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/494
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere Clubes UHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/21269
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere Clubes HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/492
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere Clubes SD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/491
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 2 FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/499
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 2 UHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/21266
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 2 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/497
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 3 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/502
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 3 SD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/501
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 4 FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/509
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 4 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/507
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 5 FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/514
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 5 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/512
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 6 FHD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/519
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 6 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/517
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="@Esportes Extras",Premiere 7 HD
+http://uniplay.cdnsucuri.click:80/p2puni777/8zksAAJgKEYq/522
+
+################################################################################# Agronegocio
+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/k6VvysK.png" group-title="@Agronegocio",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-logo="https://i.imgur.com/aiuBwcI.png" group-title="@Agronegocio",AgroMais
+http://187.95.95.243/AgroMais-HD/video.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-logo="https://i.imgur.com/euWuCah.png" group-title="@Agronegocio",Agro Canal
+http://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
+
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://i.imgur.com/44uV3rT.png" group-title="@Agronegocio",Canal do Boi
+http://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
+
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://i.imgur.com/44uV3rT.png" group-title="@Agronegocio",Canal do Boi 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141
+
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://i.imgur.com/44uV3rT.png" group-title="@Agronegocio",Canal do Boi 3
+http://cdn-1.nxplay.com.br/CANAL_DO_BOI_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/Q06gcyL.png" group-title="@Agronegocio",Canal Rural
+http://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/Q06gcyL.png" group-title="@Agronegocio",Canal Rural 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/84036
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYvynp1.png" group-title="@Agronegocio",Nova TV Agrotour
+http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Terra.Viva.br" tvg-logo="https://i.imgur.com/AEMC91w.png" group-title="@Agronegocio",Terra Viva
+http://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmuHDMW.png" group-title="@Agronegocio",TV Milagro Brasil
+http://201.87.136.36:8091/hls/tvmilagro.m3u8 
 
 ############################################################################ Canais | ABERTO
 
